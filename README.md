@@ -1,3 +1,36 @@
+# 红阳 科技 oencart Module
+## OpenCART V3.0 module
+#### Support gold flow:
+1. Credit card credit card (including scheduled payment)
+2. Apple Pay
+3. Google Pay
+4. UnionPay card credit card
+5. Super merchant payment single payment
+6. Super merchant code payment
+7. Super commercial pickup payment
+8. ATM transfer (virtual account)
+9. Network ATM Transfer
+10. Taiwan PAY
+
+#### Support logistics:
+1. 7-11 Super Business
+2. Family Super Business
+3. Lairfu Super Business
+4. OK Super Business
+5. Homestead
+
+
+## OpenCART V1.5.x / V2.0 ~ 2.2.x / v2.3 module
+#### Support Hongyang payment
+1. Credit card payment (including scheduled payment, super commercial pick-up)
+2. UnionPay card payment
+3. Online ATM payment (super commercial pick-up)
+4. Super merchandise payment slip payment (can be charged)
+5. Super merchant code payment (can be super commercial goods)
+6. Super commercial pickup payment
+
+-----------
+
 # 紅陽科技 OpenCart 金流模組
 ## OpenCart V3.0 模組
 #### 支援金流：
