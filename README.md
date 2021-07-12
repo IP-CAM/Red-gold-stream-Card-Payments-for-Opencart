@@ -1,4 +1,4 @@
-# 红阳 科技 oencart Module
+# 红阳 科技 Opencart Module
 ## OpenCART V3.0 module
 #### Support gold flow:
 1. Credit card credit card (including scheduled payment)
